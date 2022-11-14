@@ -8,8 +8,8 @@ For the first part you must have:
   - Frida and frida-tool installed on your PC ( I used Linux operating system, Ubuntu 22.04.1). 
 
 ### Second part 
-For the second part you must have:
-  -Python 3.8 or above.
+For the second part you must have:  
+  - Python 3.8 or above.
   
 ## How to run
 ### First Part
